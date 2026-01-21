@@ -47,7 +47,7 @@ System.out.println("Result of adding three integers:"+obj.add(40,50,60));
 }
 ```
 # output:
-![output of integers](ADD.png)
+![ouput](STD.png)
 
 # Expt-2c
 ```java
