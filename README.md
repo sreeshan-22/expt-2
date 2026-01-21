@@ -72,4 +72,4 @@ s1.display();
 }
 ```
 # output:
-![output of Student](STD.png)
+![output](STD.png)
